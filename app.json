@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "mercado_livre",
+    "slug": "mercado_livre",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fundo.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fundo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fundo.jpeg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/fundo.jpeg",
+      "bundler": "metro"
+    }
+  }
+}
